@@ -1,6 +1,6 @@
 Here is the content saved inside a `README.md` file:
 
-```markdown
+
 # Quiz-WebApp
 
 A full-stack quiz application built with React, Redux, and Node.js. This app allows users to take quizzes, track their results, and view their performance.
